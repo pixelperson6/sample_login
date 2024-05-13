@@ -13,6 +13,7 @@ class WelcomeView extends GetView<WelcomeController> {
   const WelcomeView({Key? key}) : super(key: key);
   @override
   Widget build(BuildContext context) {
+
     return Scaffold(
       resizeToAvoidBottomInset: false,
       body: SafeArea(
