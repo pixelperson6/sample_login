@@ -59,6 +59,7 @@ class WelcomeView extends GetView<WelcomeController> {
                   ),
                   //some code added
                   // another one added
+                  // another code added
                   Container(
                     height: 40.h,
                     width: double.infinity,
