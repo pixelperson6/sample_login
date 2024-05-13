@@ -57,8 +57,6 @@ class WelcomeView extends GetView<WelcomeController> {
                   SizedBox(
                     height: 15.h,
                   ),
-                  // modified
-                  // modified
                   Container(
                     height: 40.h,
                     width: double.infinity,
